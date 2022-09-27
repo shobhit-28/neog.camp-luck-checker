@@ -20,9 +20,9 @@ function dateToInt(dti){
 
 function checkLuck(cl){
     if (cl%luckyNum.value == 0) {
-        declaration.innerHTML = 'YAY! Your birthday is lucky'
+        declaration.innerHTML = 'YAY! Your birthday is lucky 😃'
     } else {
-        declaration.innerHTML = 'ALAS! Your birthday is not lucky'
+        declaration.innerHTML = 'ALAS! Your birthday is not lucky 😔'
     }
 }
 // Date Handler :-

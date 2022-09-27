@@ -42,3 +42,9 @@ label{
     background-color: #CAF0F8;
     font-family: 'Kalam', cursive;
 }
+
+.declaration{
+    font-family: 'Berkshire Swash', cursive;
+    font-weight: 100;
+    font-size: 2rem;
+}
